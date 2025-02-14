@@ -1,4 +1,4 @@
-<img src="./6분할 카드뉴스_8th_최종 (완료).png" />
+![8th 카드뉴스](./6분할 카드뉴스*8th*최종 (완료).png)
 
 # SSU_MAKEUS_CHALLENGE
 
