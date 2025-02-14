@@ -1,4 +1,4 @@
-![6분할 카드뉴스_8th_최종 (완료)](https://github.com/user-attachments/assets/4d13b274-142c-46d2-bf25-f088043a6c4a)
+<img src="https://github.com/user-attachments/assets/4d13b274-142c-46d2-bf25-f088043a6c4a" height="300">
 
 # SSU_MAKEUS_CHALLENGE
 
